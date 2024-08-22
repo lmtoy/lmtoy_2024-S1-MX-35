@@ -1,0 +1,6 @@
+2024-03-12T10:01:57   112867  SEQ        Science      Map(Dec/C)  TYC_2597_735_1            2024-S1-MX-35                  115.3000     9    1313.5  252.155833  35.202611   51.6  60.0  0 0
+2024-03-12T09:30:27   112866  SEQ        Science      Map(Ra/C)   TYC_2597_735_1            2024-S1-MX-35                  115.3000     9    1313.3  252.155833  35.202611   55.8  53.9  0 0
+2024-03-12T09:29:49   112865  SEQ        Calibration  Cal         TYC_2597_735_1            2024-S1-MX-35                  115.3000     9       5.6  252.155833  35.202611   55.9  53.8  0 0
+2024-03-12T09:24:46   112864  SEQ        Pointing     Map(Az/D)   RU-Her                    2024-S1-MX-35                   86.2434   -13     144.6  242.560472  25.070640   72.0  63.0  239.76 0
+2024-03-12T09:24:14   112863  SEQ        Calibration  Cal         RU-Her                    2024-S1-MX-35                   86.2434   -13       5.0  242.560472  25.070640   72.1  62.7  239.76 0
+# Y-M-D_T_H:M:S       ObsNum  Receiver   ObsGoal      ObgPgm      SourceName                ProjectId                   RestFreq      VLSR    TINT    RA          DEC        AZ     EL   A1 E1
