@@ -1,2 +1,4 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
+
+137008  no valid data
+138270  no valid data
