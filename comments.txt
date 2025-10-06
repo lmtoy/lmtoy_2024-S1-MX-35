@@ -4,8 +4,8 @@
 138270  no valid data
 
 # BP_Psc
-112866_138549	[20/21] no detection	#qagrade=0
+124679_139183	[20/21] weak line at V ~ 80
 139038	[QAFAIL] wavys in every pixel	#qagrade=-2
 
 #TYC_2597_735_1
-112866_138549	[17/19] no detection	#qagrade=0
+112866_138549	[17/19] no detection	#
