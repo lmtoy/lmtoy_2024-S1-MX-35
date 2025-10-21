@@ -22,7 +22,7 @@ on["TYC_2597_735_1"] = \
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1["BP_Psc"]         = "vlsr=80"
+pars1["BP_Psc"]         = "vlsr=80 b_order=1"
 pars1["TYC_2597_735_1"] = ""
 
 #        common parameters per source on subsequent runs (run1b, run2b), e.g. bank=0 for WARES
